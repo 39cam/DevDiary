@@ -12,6 +12,8 @@ Build a website that helps people find jobs within their local communities.
 - [✅] **Phase 1: Introduction to Web Development** (01-introduction-to-web)
 - [✅] **Phase 2: Web Basics** (01-introduction-to-web)
 - [✅] **Phase 3: Git Basics** (01-introduction-to-web)
+- [✅] **Phase 4: HTML Introduction** (02-html-css-basics -> 01-html-css-introduction.md)
+- [✅] **Phase 5: HTML Basics** (02-html-css-basics -> 02 : 06)
 
 > NOTE:
 > *The following phases are subject to change as I progress:*

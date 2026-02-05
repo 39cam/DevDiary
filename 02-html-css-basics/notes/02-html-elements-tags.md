@@ -7,6 +7,7 @@ HTML (HyperText Markup Language) is the language used to define the structure an
 Most content on an HTML page is created by wrapping text or media inside **opening and closing HTML tags**.
 
 HTML tags act as the core components that describe both the structure and purpose of webpage content. 
+
 ### Opening Tags
 
 An opening tag tells the browser where an element begins. It consists of a keyword placed inside angle brackets (`<>`).
